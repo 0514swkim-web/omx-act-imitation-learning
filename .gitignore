@@ -1,0 +1,16 @@
+# 대용량 파일
+03_학습설정/model.safetensors
+04_미디어/영상/
+*.mp4
+
+# 정리 전 원본 자료 (로컬에만 보관)
+01_과제안내/
+02_팀자료/
+99_참고자료/
+04_미디어/사진/
+
+# OS / 에디터
+Thumbs.db
+desktop.ini
+.DS_Store
+.vscode/
